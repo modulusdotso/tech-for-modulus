@@ -1,4 +1,4 @@
-# oss-for-modulus
+# software, tools, SaaS to build our start-up, Modulus
 All the OSS software and tools used to build modulus
 
 - Celery
