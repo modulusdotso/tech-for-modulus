@@ -18,3 +18,4 @@ All the OSS software and tools used to build modulus
 - [Docker](https://github.com/docker) for AI agent contenarization
 - [DigitalOcean](https://www.digitalocean.com) for AI agent hosting
 - [ChromaDB](https://www.trychroma.com) for vector database
+- [Posthog](https://posthog.com) for analytics and tracking
