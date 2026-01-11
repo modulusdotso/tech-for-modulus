@@ -2,7 +2,7 @@
 All the OSS software and tools used to build modulus
 
 
-##### 01.06.2026
+##### 01.10.2026
 - Celery
 - RabbitMQ
 - Python FastAPI
@@ -19,3 +19,4 @@ All the OSS software and tools used to build modulus
 - [DigitalOcean](https://www.digitalocean.com) for AI agent hosting
 - [ChromaDB](https://www.trychroma.com) for vector database
 - [Posthog](https://posthog.com) for analytics and tracking
+- [DynamoDB](https://aws.amazon.com/dynamodb/) - NoSQL database
